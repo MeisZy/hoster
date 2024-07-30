@@ -1,0 +1,1 @@
+- during deployment, server and client are uploaded in vercel separately as their own "projects".
